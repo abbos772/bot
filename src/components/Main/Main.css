@@ -1,0 +1,19 @@
+form input {
+  width: 150px;
+  height: 30px;
+  border-radius: 10px;
+  background-color: 0;
+  padding: 10px;
+}
+form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 30px;
+  padding-top: 80px;
+}
+textarea {
+  width: 400px;
+  height: 100px;
+}

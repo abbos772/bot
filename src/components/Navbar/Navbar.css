@@ -1,0 +1,49 @@
+.Navbar {
+  height: 122px;
+  padding-top: 20px;
+  background-color: white;
+}
+.nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.nav1 {
+  display: flex;
+  align-items: center;
+  gap: 105px;
+}
+.serach_product {
+  width: 195px;
+  height: 32px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  background: rgb(237, 242, 244);
+}
+.nav2 {
+  display: flex;
+  align-items: baseline;
+  gap: 58px;
+}
+.serach_product input {
+  width: 160px;
+  height: auto;
+  outline: 0;
+  border: 0;
+  background: 0;
+}
+.Navbar p {
+  color: rgb(0, 0, 0);
+  font-family: Quicksand;
+  font-size: 16px;
+  cursor: pointer;
+  font-weight: 600;
+  line-height: 19px;
+  letter-spacing: 0%;
+  text-align: center;
+}
+.Navbar p:hover {
+  color: rgb(255, 0, 0);
+}

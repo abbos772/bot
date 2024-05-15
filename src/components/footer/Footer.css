@@ -1,0 +1,25 @@
+.footer {
+  margin-top: 120px;
+  height: 465px;
+  background: rgb(237, 242, 244);
+  padding: 30px;
+}
+.fot {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 30px;
+}
+.foot p {
+  color: rgb(0, 0, 0);
+  font-family: Quicksand;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 17px;
+  letter-spacing: 0%;
+  text-align: justify;
+  line-height: 3;
+}
+.foot {
+  line-height: 4;
+}

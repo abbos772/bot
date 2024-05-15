@@ -1,0 +1,31 @@
+.wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 85px;
+  padding-top: 150px;
+}
+.card {
+  width: 323px;
+  height: 421px;
+  background: rgb(237, 242, 244);
+  padding: 20px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.card img {
+  object-fit: cover;
+}
+
+.title {
+  color: rgb(0, 0, 0);
+  font-family: Quicksand;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 25px;
+  letter-spacing: 5%;
+  text-align: left;
+}

@@ -1,0 +1,139 @@
+.all {
+  width: 183px;
+  height: 60px;
+  border-radius: 20px;
+  border: 0;
+  color: rgb(255, 255, 255);
+  font-family: Lalezar;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 38px;
+  letter-spacing: 0%;
+  text-align: center;
+  cursor: pointer;
+  background: rgb(255, 0, 0);
+}
+.iph_text h1 {
+  color: rgb(244, 45, 45);
+  font-family: Lalezar;
+  font-size: 96px;
+  font-weight: 400;
+  line-height: 140px;
+  letter-spacing: 0%;
+  text-align: left;
+}
+.iph_text b {
+  color: rgb(0, 0, 0);
+  font-family: Lalezar;
+  font-size: 64px;
+  font-weight: 400;
+  line-height: 73px;
+  letter-spacing: 0%;
+  text-align: left;
+}
+.iphone_12 {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 70px;
+}
+.iph_text {
+  padding-top: 300px;
+}
+.red {
+  display: flex;
+  flex-direction: column;
+  line-height: 30px;
+  gap: 40px;
+  padding-top: 180px;
+  align-items: center;
+  text-align: center;
+}
+.redcart {
+  width: 23px;
+  height: 79px;
+  border-radius: 10px;
+
+  background: rgb(255, 4, 4);
+}
+.red p {
+  color: rgb(0, 0, 0);
+  font-family: Quicksand;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 19px;
+  letter-spacing: 0%;
+  text-align: left;
+}
+.red h1 {
+  color: rgb(214, 40, 40);
+  font-family: Lalezar;
+  font-size: 48px;
+  font-weight: 400;
+  line-height: 60px;
+  letter-spacing: 0%;
+  text-align: center;
+}
+.red_img {
+  padding-top: 70px;
+}
+.boxes {
+  display: flex;
+  align-items: center;
+  padding-top: 150px;
+  padding-bottom: 100px;
+}
+.box {
+  width: 1035px;
+  height: 452px;
+  border-radius: 20px;
+  background: rgb(237, 242, 244);
+  top: 15px;
+  position: relative;
+  left: 80px;
+  padding: 50px;
+  display: flex;
+  align-items: center;
+}
+.text {
+  gap: 15px;
+  display: flex;
+  flex-direction: column;
+}
+.box1 {
+  width: 532px;
+  height: 532px;
+  background: rgb(0, 48, 73);
+}
+.box h1 {
+  color: rgb(255, 0, 0);
+  font-family: Lalezar;
+  font-size: 48px;
+  font-weight: 400;
+  line-height: 60px;
+  letter-spacing: 0%;
+  text-align: left;
+}
+.box p {
+  color: rgb(0, 0, 0);
+  font-family: Quicksand;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 19px;
+  letter-spacing: 0%;
+  text-align: left;
+}
+.box button {
+  width: 251px;
+  height: 60px;
+  border-radius: 20px;
+  border: 0;
+  color: rgb(255, 255, 255);
+  font-family: Lalezar;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 31px;
+  letter-spacing: 0%;
+  text-align: center;
+  cursor: pointer;
+  background: rgb(255, 0, 0);
+}
